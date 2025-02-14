@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+body { 
+    overflow-x:hidden; 
+}
+
+
+#home {
+    background-image: url("./images/bg.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+    font-family: Montserrat;
+    font-weight: 500;
+}
+
